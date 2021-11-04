@@ -269,22 +269,22 @@
 	height: 100vh;
 }
 .main-slide .m-slide01 {
-	background: url(./portfolio_files/portfolio_image1.jpeg) center center no-repeat;
+	background: url(./portfolio_files/images/portfolio_image1.JPG) center center no-repeat;
 	background-size: cover;
 }
 .main-slide .m-slide02 {
 	position: relative;
-	background: url(./portfolio_files/portfolio_image1.jpeg) center center no-repeat;
+	background: url(./portfolio_files/images/portfolio_image1.JPG) center center no-repeat;
 	background-size: cover;
 }
 .main-slide .m-slide03 {
 	position: relative;
-	background: url(./portfolio_files/portfolio_image1.jpeg) center center no-repeat;
+	background: url(./portfolio_files/images/portfolio_image1.JPG) center center no-repeat;
 	background-size: cover;
 }
 .main-slide .m-slide04 {
 	position: relative;
-	background: url(./portfolio_files/portfolio_image1.jpeg) center center no-repeat;
+	background: url(./portfolio_files/images/portfolio_image1.JPG) center center no-repeat;
 	background-size: cover;
 }
 
@@ -306,7 +306,7 @@
 	right: 0;
 	width: 39%;
 	height: 68vw;
-	background: url(./portfolio_files/portfolio_image4.jpeg) center center no-repeat;
+	background: url(./portfolio_files/images/images/4.jpeg) center center no-repeat;
 	background-size: cover;
 	opacity: 0;
 	transition: all 1.2s;
@@ -746,22 +746,22 @@
 	height: 100vh;
 }
 .main-slide .m-slide01 {
-	background: url(../portfolio_files/portfolio_image1.jpeg) center center no-repeat;
+	background: url(../portfolio_files/images/portfolio_image1.JPG) center center no-repeat;
 	background-size: cover;
 }
 .main-slide .m-slide02 {
 	position: relative;
-	background: url(../portfolio_files/portfolio_image1.jpeg) center center no-repeat;
+	background: url(../portfolio_files/images/portfolio_image1.JPG) center center no-repeat;
 	background-size: cover;
 }
 .main-slide .m-slide03 {
 	position: relative;
-	background: url(../portfolio_files/portfolio_image1.jpeg) center center no-repeat;
+	background: url(../portfolio_files/images/portfolio_image1.JPG) center center no-repeat;
 	background-size: cover;
 }
 .main-slide .m-slide04 {
 	position: relative;
-	background: url(../portfolio_files/portfolio_image1.jpeg) center center no-repeat;
+	background: url(../portfolio_files/images/portfolio_image1.JPG) center center no-repeat;
 	background-size: cover;
 }
 
@@ -772,7 +772,9 @@
 .about-sec {
 	padding-bottom: 140px;
 	position: relative;
+	/*
 	background: url(../portfolio_files/portfolio_image4.jpeg) center center no-repeat;
+	*/
 	background-size: cover;
 }
 .about-sec-inner {
@@ -783,7 +785,7 @@
 	right: 0;
 	width: 42%;
 	height: 38vw;
-	background: url(../portfolio_files/portfolio_image4.jpeg) center center no-repeat;
+	background: url(../portfolio_files/images/images/portfolio_image4.jpeg) center center no-repeat;
 	background-size: cover;
 	opacity: 0;
 	transition: all 1.2s;
@@ -1267,22 +1269,22 @@
 }
 .main-slide .m-slide01 {
 	position: relative;
-	background: url(../portfolio_files/portfolio_image1.JPG) center center no-repeat;
+	background: url(../portfolio_files/images/portfolio_image1.JPG) center center no-repeat;
 	background-size: cover;
 }
 .main-slide .m-slide02 {
 	position: relative;
-	background: url(../portfolio_files/portfolio_image2.JPG) center center no-repeat;
+	background: url(../portfolio_files/images/portfolio_image2.JPG) center center no-repeat;
 	background-size: cover;
 }
 .main-slide .m-slide03 {
 	position: relative;
-	background: url(../portfolio_files/portfolio_image1.JPG) center center no-repeat;
+	background: url(../portfolio_files/images/portfolio_image1.JPG) center center no-repeat;
 	background-size: cover;
 }
 .main-slide .m-slide04 {
 	position: relative;
-	background: url(../portfolio_files/portfolio_image2.JPG) center center no-repeat;
+	background: url(../portfolio_files/images/portfolio_image2.JPG) center center no-repeat;
 	background-size: cover;
 }
 
@@ -1297,7 +1299,9 @@
 	min-height: 900px;
 	padding-bottom: 135px;
 	position: relative;
-	background: url(../portfolio_files/portfolio_image4.jpeg) center center no-repeat;
+	/*
+	background: url(../portfolio_files/portfolio_image2.jpeg) center center no-repeat;
+	*/
 	background-size: cover;
 }
 .about-sec-inner {
@@ -1309,7 +1313,7 @@
 	width: 32%;
 	height: 28vw;
 	max-height: 620px;
-	background: url(../portfolio_files/portfolio_image4.jpeg) center center no-repeat;
+	background: url(../portfolio_files/images/portfolio_image4.jpeg) center center no-repeat;
 	background-size: cover;
 	opacity: 0;
 	transition: all 1.2s;

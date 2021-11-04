@@ -614,7 +614,7 @@ button[type="submit"]:focus {
 
 /* contact-sec */
 .contact-sec {
-	background: url(../images/contact-bg_sp.jpg) center center no-repeat;
+	background: url(../portfolio_files/images/portfolio_image4.jpeg) center center no-repeat;
 	background-size: cover;
 	padding: 0 40px 65px;
 }
@@ -1341,7 +1341,7 @@ button[type="submit"]:focus {
 
 /* contact-sec */
 .contact-sec {
-	background: url(../images/contact-bg_pc.jpg) center center no-repeat;
+	background: url(../portfolio_files/images/portfolio_image4.jpeg) center center no-repeat;
 	background-size: cover;
 	padding: 0 80px 65px;
 }
@@ -2217,7 +2217,7 @@ input[type="submit"]:focus {
 /* contact-sec */
 .contact-sec {
 	position: relative;
-	background: url(../images/contact-bg_pc.jpg) center center no-repeat;
+	background: url(../portfolio_files/images/portfolio_image4.jpeg) center center no-repeat;
 	background-size: cover;
 	padding: 150px 0 140px 0;
 }
