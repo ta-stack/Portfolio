@@ -614,7 +614,7 @@ button[type="submit"]:focus {
 
 /* contact-sec */
 .contact-sec {
-	background: url(../portfolio_files/images/portfolio_image4.jpeg) center center no-repeat;
+	background: url(../portfolio_files/images/portfolio_image.jpeg) center center no-repeat;
 	background-size: cover;
 	padding: 0 40px 65px;
 }
@@ -622,7 +622,7 @@ button[type="submit"]:focus {
 	position: relative;
 	margin-bottom: 70px;
 	padding: 76px 0 0 50px;
-	color: #fff;
+	color: rgb(0, 0, 0);
 }
 .contact-sec-ttl-area::before {
 	display: block;
@@ -642,7 +642,7 @@ button[type="submit"]:focus {
 	left: 0;
 	width: 1px;
 	height: 190px;
-	background-color: #fff;
+	background-color: rgb(0, 0, 0);
 }
 .contact-sec-ttl {
 	font-family: 'Heebo', sans-serif;
@@ -662,7 +662,7 @@ button[type="submit"]:focus {
 	display: block;
 	position: relative;
 	margin-bottom: 20px;
-	padding: 34px 30px 34px 40px;
+	padding: 24px 30px 34px 40px;
 	border: 1px solid #fff;
 	color: #fff;
 	font-size: 1.6rem;
@@ -699,12 +699,12 @@ button[type="submit"]:focus {
 	position: relative;
 	margin-bottom: 10px;
 	padding: 34px 30px 34px 40px;
-	border: 1px solid #fff;
-	color: #fff;
+	border: 1px solid rgb(0, 0, 0);
+	color: rgb(0, 0, 0);
 	font-size: 1.4rem;
 }
 .contact-instagram-btn:hover {
-	color: #fff;
+	color: rgb(0, 0, 0);
 }
 .contact-btn-instagram-icon {
 	width: 22px;
@@ -719,7 +719,7 @@ button[type="submit"]:focus {
 	right: 28px;
 	width: 30px;
 	height: 1px;
-	background-color: #fff;
+	background-color: rgb(0, 0, 0);
 }
 .contact-instagram-btn::after {
 	display: block;
@@ -730,11 +730,11 @@ button[type="submit"]:focus {
 	width: 5px;
 	height: 5px;
 	margin-top: -2px;
-	border-top: 1px solid #fff;
+	border-top: 1px solid rgb(0, 0, 0);
 	transform: rotate(45deg);
 }
 .contact-instagram-text {
-	color: #fff;
+	color: rgb(0, 0, 0);
 	font-size: 1.1rem;
 }
 
@@ -1341,7 +1341,7 @@ button[type="submit"]:focus {
 
 /* contact-sec */
 .contact-sec {
-	background: url(../portfolio_files/images/portfolio_image4.jpeg) center center no-repeat;
+	background: url(../portfolio_files/images/portfolio_image.jpeg) center center no-repeat;
 	background-size: cover;
 	padding: 0 80px 65px;
 }
@@ -1349,7 +1349,7 @@ button[type="submit"]:focus {
 	position: relative;
 	margin-bottom: 70px;
 	padding: 76px 0 0 50px;
-	color: #fff;
+	color: rgb(0, 0, 0);
 }
 .contact-sec-ttl-area::before {
 	display: block;
@@ -1369,7 +1369,7 @@ button[type="submit"]:focus {
 	left: 0;
 	width: 1px;
 	height: 190px;
-	background-color: #fff;
+	background-color: rgb(0, 0, 0);
 }
 .contact-sec-ttl {
 	font-family: 'Heebo', sans-serif;
@@ -1388,15 +1388,15 @@ button[type="submit"]:focus {
 	font-weight: 400;
 	display: block;
 	position: relative;
-	width: 70%;
+	width: 100%;
 	margin-bottom: 20px;
 	padding: 34px 30px 34px 40px;
-	border: 1px solid #fff;
-	color: #fff;
+	border: 1px solid rgb(0, 0, 0);
+	color: rgb(0, 0, 0);
 	font-size: 1.6rem;
 }
 .contact-form-btn:hover {
-	color: #fff;
+	color: rgb(0, 0, 0);
 }
 .contact-form-btn::before {
 	display: block;
@@ -1406,7 +1406,7 @@ button[type="submit"]:focus {
 	right: 28px;
 	width: 30px;
 	height: 1px;
-	background-color: #fff;
+	background-color: rgb(0, 0, 0);
 }
 .contact-form-btn::after {
 	display: block;
@@ -1425,15 +1425,15 @@ button[type="submit"]:focus {
 	font-weight: 400;
 	display: block;
 	position: relative;
-	width: 70%;
+	width: 100%;
 	margin-bottom: 10px;
 	padding: 34px 30px 34px 40px;
-	border: 1px solid #fff;
-	color: #fff;
+	border: 1px solid rgb(0, 0, 0);
+	color: rgb(0, 0, 0);
 	font-size: 1.4rem;
 }
 .contact-instagram-btn:hover {
-	color: #fff;
+	color: rgb(0, 0, 0);
 }
 .contact-btn-instagram-icon {
 	width: 22px;
@@ -1448,7 +1448,7 @@ button[type="submit"]:focus {
 	right: 28px;
 	width: 30px;
 	height: 1px;
-	background-color: #fff;
+	background-color: rgb(0, 0, 0);
 }
 .contact-instagram-btn::after {
 	display: block;
@@ -1459,11 +1459,11 @@ button[type="submit"]:focus {
 	width: 5px;
 	height: 5px;
 	margin-top: -2px;
-	border-top: 1px solid #fff;
+	border-top: 1px solid rgb(0, 0, 0);
 	transform: rotate(45deg);
 }
 .contact-instagram-text {
-	color: #fff;
+	color: rgb(0, 0, 0);
 	font-size: 1.1rem;
 }
 
@@ -1675,7 +1675,7 @@ img {
 /* breadcrumbs-area */
 .breadcrumbs-area {
 	box-sizing: border-box;
-	padding: 0 90px 0;
+	padding: 90px 90px 0;
 }
 .breadcrumbs-list {
 }
@@ -2217,7 +2217,7 @@ input[type="submit"]:focus {
 /* contact-sec */
 .contact-sec {
 	position: relative;
-	background: url(../portfolio_files/images/portfolio_image4.jpeg) center center no-repeat;
+	background: url(../portfolio_files/images/portfolio_image.jpeg) center center no-repeat;
 	background-size: cover;
 	padding: 150px 0 140px 0;
 }
@@ -2227,7 +2227,7 @@ input[type="submit"]:focus {
 	left: 14%;
 	margin-bottom: 0;
 	padding: 165px 0 0 80px;
-	color: #fff;
+	color: rgb(0, 0, 0);
 }
 .contact-sec-ttl-area::before {
 	display: block;
@@ -2247,7 +2247,7 @@ input[type="submit"]:focus {
 	left: 0;
 	width: 1px;
 	height: 300px;
-	background-color: #fff;
+	background-color: rgb(0, 0, 0);
 }
 .contact-sec-ttl {
 	font-family: 'Heebo', sans-serif;
@@ -2260,23 +2260,23 @@ input[type="submit"]:focus {
 	line-height: 2.2;
 }
 .contact-sec-btn-area {
-	padding-left: 55%;
+	padding-left: 48%;
 }
 .contact-form-btn {
 	font-family: 'Heebo', sans-serif;
 	font-weight: 400;
 	display: block;
 	position: relative;
-	width: 70%;
-	margin-bottom: 40px;
-	padding: 45px 30px 42px 12%;
-	border: 1px solid #fff;
-	color: #fff;
-	font-size: 1.8rem;
+	width: 90%;
+	margin-bottom: 35px;
+	padding: 35px 30px 35px 10%;
+	border: 1px solid rgb(0, 0, 0);
+	color: rgb(0, 0, 0);
+	font-size: 1.6rem;
 	transition: all .3s;
 }
 .contact-form-btn:hover {
-	color: #fff;
+	color: rgb(0, 0, 0);
 	opacity: .6;
 }
 .contact-form-btn::before {
@@ -2287,7 +2287,7 @@ input[type="submit"]:focus {
 	right: 12%;
 	width: 16%;
 	height: 1px;
-	background-color: #fff;
+	background-color: rgb(0, 0, 0);
 	transition: all .3s;
 }
 .contact-form-btn::after {
@@ -2299,7 +2299,7 @@ input[type="submit"]:focus {
 	width: 5px;
 	height: 5px;
 	margin-top: -2px;
-	border-top: 1px solid #fff;
+	border-top: 1px solid rgb(0, 0, 0);
 	transform: rotate(45deg);
 	transition: all .3s;
 }
@@ -2319,11 +2319,11 @@ input[type="submit"]:focus {
 	font-weight: 400;
 	display: block;
 	position: relative;
-	width: 70%;
+	width: 90%;
 	margin-bottom: 15px;
-	padding: 48px 30px 45px 12%;
-	border: 1px solid #fff;
-	color: #fff;
+	padding: 35px 30px 35px 10%;
+	border: 1px solid rgb(0, 0, 0);
+	color: rgb(0, 0, 0);
 	font-size: 1.5rem;
 	transition: all .3s;
 }
@@ -2331,7 +2331,7 @@ input[type="submit"]:focus {
 	opacity: .6;
 }
 .contact-instagram-btn:hover {
-	color: #fff;
+	color: rgb(0, 0, 0);
 }
 .contact-btn-instagram-icon {
 	width: 22px;
@@ -2346,7 +2346,7 @@ input[type="submit"]:focus {
 	right: 12%;
 	width: 16%;
 	height: 1px;
-	background-color: #fff;
+	background-color: rgb(0, 0, 0);
 	transition: all .3s;
 }
 .contact-instagram-btn::after {
@@ -2358,7 +2358,7 @@ input[type="submit"]:focus {
 	width: 5px;
 	height: 5px;
 	margin-top: -2px;
-	border-top: 1px solid #fff;
+	border-top: 1px solid rgb(0, 0, 0);
 	transform: rotate(45deg);
 	transition: all .3s;
 }
@@ -2375,7 +2375,7 @@ input[type="submit"]:focus {
 }
 
 .contact-instagram-text {
-	color: #fff;
+	color: rgb(0, 0, 0);
 	font-size: 1.2rem;
 }
 
